@@ -10,20 +10,20 @@ Latest Patch: ``v30.01``
 
 # Table of Contents
 
-[Latest Offsets](https://github.com/paysonism/Fortnite-Offsets/blob/main/offsets.h)
+[Latest Offsets](https://github.com/vsxcc/Fortnite-Offsets/blob/main/offsets.h)
 
-[Latest SDK](https://github.com/paysonism/Fortnite-Offsets/blob/main/FortniteClient-Win64-Shipping-v30.01.rar)
+[Latest SDK](https://github.com/vsxcc/Fortnite-Offsets/blob/main/FortniteClient-Win64-Shipping-v30.01.rar)
 
-[Latest W2S](https://github.com/paysonism/Fortnite-Offsets/blob/main/ProjectWorldToScreen.h)
+[Latest W2S](https://github.com/vsxcc/Fortnite-Offsets/blob/main/ProjectWorldToScreen.h)
 
-[Latest Matrix](https://github.com/paysonism/Fortnite-Offsets/blob/main/Matrix.h)
+[Latest Matrix](https://github.com/vsxcc/Fortnite-Offsets/blob/main/Matrix.h)
 
-[Latest GetBone](https://github.com/paysonism/Fortnite-Offsets/blob/main/GetBoneWithRotation.h)
+[Latest GetBone](https://github.com/vsxcc/Fortnite-Offsets/blob/main/GetBoneWithRotation.h)
 
-[Latest Camera](https://github.com/paysonism/Fortnite-Offsets/blob/main/Camera.h)
+[Latest Camera](https://github.com/vsxcc/Fortnite-Offsets/blob/main/Camera.h)
 
 # Info
 
-[Saturn IV](https://discord.gg/saturniv) - My discord with FREE undetected products and cheats
+[Vsx.cc]https://discord.gg/hQkayzJgvW - My discord with FREE undetected products and cheats
 
-Contact me on [Telegram](https://t.me/payson1337) or [Discord](https://discord.com/users/1214355385457188926)
+Contact me on [Discord](https://discord.com/users/1006239158945185927)
