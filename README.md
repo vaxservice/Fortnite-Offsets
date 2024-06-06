@@ -24,6 +24,6 @@ Latest Patch: ``v30.01``
 
 # Info
 
-[Vsx.cc]https://discord.gg/hQkayzJgvW - My discord with FREE undetected products and cheats
+[Vsx.cc](https://discord.gg/hQkayzJgvW) - My discord with FREE undetected products and cheats
 
 Contact me on [Discord](https://discord.com/users/1006239158945185927)
